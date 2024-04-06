@@ -6,4 +6,4 @@ Denne algoritme kan let blive benyttet til maze-generation.
 Benyttede artikler:
 https://www.baeldung.com/cs/maze-generation (MST delen).
 
-https://Hoejhuset.github.io/LabyrintGenerator/
+[https://Hoejhuset.github.io/LabyrintGenerator/](https://hoejhus.github.io/LabyrintGenerator/)
